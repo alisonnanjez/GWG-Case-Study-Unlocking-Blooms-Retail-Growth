@@ -14,6 +14,12 @@ Key analyses performed include:
 * **Key Performance Indicator (KPI) Calculation:** Deriving essential retail metrics such as overall sales, quantity sold, average price per unit, and average transaction value.
 * **Actionable Business Recommendations:** Formulating data-backed strategies for Bloom Retail to optimize inventory, refine marketing efforts, and enhance customer engagement.
 
+## Project Presentation
+
+For a dynamic overview of this case study, including key findings and strategic recommendations, please view the interactive presentation:
+
+[View Prezi Presentation Here](https://prezi.com/view/7Xx2BUTvV8RsZXadxGxv/)
+
 ## Why the Project is Useful
 
 This case study demonstrates the practical application of data analytics skills to solve real-world business problems within the retail sector. It provides:
